@@ -1,0 +1,106 @@
+open source     > level 1, order 1, name 'C:/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv'
+system          > 
+system          > ConTeXt  ver: 2018.04.04 00:51 MKIV beta  fmt: 2018.8.23  int: english/english
+system          > 
+system          > 'cont-new.mkiv' loaded
+open source     > level 2, order 2, name 'C:/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+close source    > level 2, order 2, name 'C:/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+system          > files > jobname 'resume', input 'output/resume', result 'output/resume.pdf'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > level 2, order 3, name 'output/resume.tex'
+colors          > defining > unknown library 'hex'
+open source     > level 3, order 4, name 'C:/texlive/2018/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+close source    > level 3, order 4, name 'C:/texlive/2018/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+structure       > sectioning > section @ level 3 : 0.0.1 -> David Leavenworth III
+setup           > error in line 1, namespace 'xtable', key 'body'
+setup           > error in line 7, namespace 'xtable', key 'foot'
+setup           > error in line 1, namespace 'xtable', key 'body'
+setup           > error in line 7, namespace 'xtable', key 'foot'
+setup           > error in line 1, namespace 'xtable', key 'body'
+setup           > error in line 7, namespace 'xtable', key 'foot'
+floatblocks     > '1' placed (here)
+structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
+structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Experience
+structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Technical Experience
+backend         > xmp > using file 'C:/texlive/2018/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1, subpage 1
+close source    > level 2, order 4, name 'output/resume.tex'
+close source    > level 1, order 4, name 'C:/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv'
+
+system          > start used files
+
+system          > text: resume
+
+system          > stop used files
+
+
+system          > start used files
+
+system          >    1: filename=char-prv.lua filetype=tex format=tex foundname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/char-prv.lua fullname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/char-prv.lua usedmethod=database
+system          >    2: filename=cont-yes.mkiv filetype=tex foundname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv fullname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+system          >    3: filename=publ-imp-default.lua filetype=scripts foundname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua fullname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    4: filename=cont-new.mkiv filetype=tex foundname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv fullname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+system          >    5: filename=lang-exc.lua filetype=scripts foundname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/lang-exc.lua fullname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    6: filename=lang-us.lua filetype=scripts foundname=C:/texlive/2018/texmf-dist/tex/context/patterns/mkiv/lang-us.lua fullname=C:/texlive/2018/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    7: filename=output/resume.tex foundname=output/resume.tex fullname=C:/Project/resume/output/resume.tex usedmethod=direct
+system          >    8: filename=type-imp-texgyre.mkiv filetype=tex foundname=C:/texlive/2018/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv fullname=C:/texlive/2018/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv usedmethod=database
+system          >    9: filename=lm.lfg filetype=tex foundname=C:/texlive/2018/texmf-dist/tex/context/fonts/mkiv/lm.lfg fullname=C:/texlive/2018/texmf-dist/tex/context/fonts/mkiv/lm.lfg usedmethod=database
+system          >   10: filename=texgyreheros-regular filetype=otf format=otf foundname=C:/texlive/2018/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf fullname=C:/texlive/2018/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf usedmethod=database
+system          >   11: filename=latinmodern-math.otf filetype=opentypefonts foundname=C:/texlive/2018/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf fullname=C:/texlive/2018/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
+system          >   12: filename=texgyreheros-bold filetype=otf format=otf foundname=C:/texlive/2018/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf fullname=C:/texlive/2018/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf usedmethod=database
+system          >   13: filename=lpdf-pdx.xml filetype=tex foundname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml fullname=C:/texlive/2018/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+
+system          > stop used files
+
+
+system          > start commandline options
+
+system          > currentrun="1"
+system          > fulljobname="output/resume.tex"
+system          > input="output/resume.tex"
+system          > kindofrun="1"
+system          > maxnofruns="9"
+system          > no-parse-first-line="true"
+system          > result="output/resume.pdf"
+
+system          > stop commandline options
+
+
+system          > start commandline files
+
+system          >    1: output/resume.tex
+
+system          > stop commandline files
+
+
+modules         > start used modules
+
+
+modules         > stop used modules
+
+
+mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: C:/texlive/2018/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9
+mkiv lua stats  > resource resolver: loadtime 0.140 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 13 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 410 modules (0.544 sec), 93 tables (0.018 sec), 503 chunks (0.562 sec)
+mkiv lua stats  > traced context: maxstack: 1290, freed: 4, unreachable: 1286
+mkiv lua stats  > cleaned up reserved nodes: 67 nodes, 9 lists of 453
+mkiv lua stats  > node memory usage: 2 glue, 2 kern, 3 penalty, 13 attribute, 51 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
+mkiv lua stats  > node list callback tasks: 7 unique task lists, 7 instances (re)created, 244 calls
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.006 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: internal: 1123, file: 611, direct: 0, late: 0, function 0, total: 1734
+mkiv lua stats  > randomizer: resumed with value 0.25989562669759
+mkiv lua stats  > loaded patterns: en::2, load time: 0.000
+mkiv lua stats  > interactive elements: 1 references, 6 destinations
+mkiv lua stats  > result saved in file: output/resume.pdf.pdf, compresslevel 3, objectcompresslevel 3
+mkiv lua stats  > loaded fonts: 3 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-regular.otf
+mkiv lua stats  > font engine: otf 3.103, afm 1.513, tfm 1.000, 9 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.258 seconds 
+mkiv lua stats  > pdf annotations: 1 links (1 unique), 0 special
+mkiv lua stats  > used platform: mswin, type: windows, binary subtree: bin
+mkiv lua stats  > used engine: luatex version 1.07 with functionality level 6686, banner: this is luatex, version 1.07.0 (tex live 2018/w32tex)
+mkiv lua stats  > control sequences: 46745 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.2, used memory: 113 MB (ctx: 113 MB), hash type: lua, hash chars: min(32,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.008 seconds, 1 processed pages, 1 shipped pages, 0.992 pages/second
+
